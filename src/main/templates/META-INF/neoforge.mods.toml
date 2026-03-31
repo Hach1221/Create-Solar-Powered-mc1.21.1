@@ -24,7 +24,7 @@ license="MIT"
 modId="createsolar" #mandatory
 
 # The version number of the mod
-version="1.2.0" #mandatory (change to your actual version)
+version="1.2.2" #mandatory (change to your actual version)
 
 # A display name for the mod
 displayName="Create: Solar Powered" #mandatory

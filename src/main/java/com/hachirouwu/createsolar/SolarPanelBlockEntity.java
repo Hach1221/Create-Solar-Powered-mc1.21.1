@@ -152,6 +152,11 @@ public class SolarPanelBlockEntity extends BlockEntity implements IHaveGoggleInf
 
     private int calculateOutput() {
         if (level == null) return 0;
+
+        // ===== NEW: if any solar panel exists above, block generation =====
+        if (hasSolarPanelAbove()) return 0;
+        // ================================================================
+
         if (!level.canSeeSky(worldPosition)) return 0;
 
         long time = level.getDayTime() % 24000;
@@ -164,6 +169,20 @@ public class SolarPanelBlockEntity extends BlockEntity implements IHaveGoggleInf
 
         return (int) (CreateSolarConfig.MAX_OUTPUT.get() * totalFactor);
     }
+
+    // ===== NEW: Scans upward for any solar panel (stops at first found) =====
+    private boolean hasSolarPanelAbove() {
+        BlockPos.MutableBlockPos pos = worldPosition.mutable().move(0, 1, 0);
+        while (pos.getY() < level.getMaxBuildHeight()) {
+            BlockState state = level.getBlockState(pos);
+            if (state.getBlock() instanceof SolarPanelBlock) {
+                return true;
+            }
+            pos.move(0, 1, 0);
+        }
+        return false;
+    }
+    // =======================================================================
 
     private double getSunFactor(long time) {
         long startGen = 22000;
