@@ -1,0 +1,19 @@
+{
+    "block.createsolar.solar_panel": "Solar Panel",
+    "tooltip.createsolar.solar_panel_info": "Solar Panel Info:",
+    "tooltip.createsolar.solar_power_efficiency": "Solar Power Efficiency:",
+    "tooltip.createsolar.energy_generated": "Energy Generated:",
+    "tooltip.createsolar.at_current_sun_strength": " at current sun strength",
+    "tooltip.createsolar.fe_per_tick": "⚡/t",
+    "config.jade.plugin_createsolar.solar_panel": "Solar Panel",
+    "createsolar.ponder.solar_panel.header": "Solar Panel",
+    "createsolar.ponder.solar_panel.tag.solar": "Solar Panel",
+    "createsolar.ponder.solar_panel.title": "Solar Panel",
+    "createsolar.ponder.solar_panel.text_1": "The Solar Panel converts sunlight into electric energy",
+    "createsolar.ponder.solar_panel.text_2": "The energy output is determined by the current time of the day and weather conditions",
+    "createsolar.ponder.solar_panel.text_3": "It stores a small buffer and pushes energy downward into compatible blocks such as cables or machines",
+    "createsolar.ponder.solar_panel.text_4": "Adjacent panels share their buffer energy horizontally",
+    "createsolar.ponder.tag.solar.title": "Solar Energy",
+    "createsolar.ponder.tag.solar": "Solar Energy",
+    "createsolar.ponder.tag.solar.description": "Converting sunlight into electricity"
+}

@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#D#",
+        " C ",
+        " P "
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:amethyst_shard"
+        },
+        "D": {
+            "item": "minecraft:daylight_detector"
+        },
+        "C": {
+            "item": "create:brass_sheet"
+        },
+        "P": {
+            "item": "create:electron_tube"
+        }
+    },
+    "result": {
+        "id": "createsolar:solar_panel",
+        "count": 2
+    }
+}

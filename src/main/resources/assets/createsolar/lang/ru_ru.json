@@ -1,0 +1,19 @@
+{
+    "block.createsolar.solar_panel": "Солнечная панель",
+    "tooltip.createsolar.solar_panel_info": "Информация о солнечной панели:",
+    "tooltip.createsolar.solar_power_efficiency": "Эффективность солнечной энергии:",
+    "tooltip.createsolar.energy_generated": "Вырабатываемая энергия:",
+    "tooltip.createsolar.at_current_sun_strength": " при текущей силе солнца",
+    "tooltip.createsolar.fe_per_tick": "⚡/т",
+    "config.jade.plugin_createsolar.solar_panel": "Солнечная панель",
+    "createsolar.ponder.solar_panel.header": "Солнечная панель",
+    "createsolar.ponder.solar_panel.tag.solar": "Солнечная панель",
+    "createsolar.ponder.solar_panel.title": "Солнечная панель",
+    "createsolar.ponder.solar_panel.text_1": "Солнечная панель преобразует солнечный свет в электрическую энергию",
+    "createsolar.ponder.solar_panel.text_2": "Выработка энергии зависит от времени суток и погодных условий",
+    "createsolar.ponder.solar_panel.text_3": "Хранит небольшой буфер и передаёт энергию вниз в совместимые блоки, такие как кабели или машины",
+    "createsolar.ponder.solar_panel.text_4": "Соседние панели делятся энергией буфера по горизонтали",
+    "createsolar.ponder.tag.solar.title": "Солнечная энергия",
+    "createsolar.ponder.tag.solar": "Солнечная энергия",
+    "createsolar.ponder.tag.solar.description": "Преобразование солнечного света в электричество"
+}

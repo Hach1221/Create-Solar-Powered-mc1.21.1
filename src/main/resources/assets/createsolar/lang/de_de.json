@@ -1,0 +1,19 @@
+{
+    "block.createsolar.solar_panel": "Solarmodul",
+    "tooltip.createsolar.solar_panel_info": "Solarmodul-Info:",
+    "tooltip.createsolar.solar_power_efficiency": "Solarenergie-Effizienz:",
+    "tooltip.createsolar.energy_generated": "Erzeugte Energie:",
+    "tooltip.createsolar.at_current_sun_strength": " bei aktueller Sonnenstärke",
+    "tooltip.createsolar.fe_per_tick": "⚡/t",
+    "config.jade.plugin_createsolar.solar_panel": "Solarmodul",
+    "createsolar.ponder.solar_panel.header": "Solarmodul",
+    "createsolar.ponder.solar_panel.tag.solar": "Solarmodul",
+    "createsolar.ponder.solar_panel.title": "Solarmodul",
+    "createsolar.ponder.solar_panel.text_1": "Das Solarmodul wandelt Sonnenlicht in elektrische Energie um",
+    "createsolar.ponder.solar_panel.text_2": "Die Energieausbeute hängt von der Tageszeit und den Wetterbedingungen ab",
+    "createsolar.ponder.solar_panel.text_3": "Es speichert einen kleinen Puffer und gibt Energie nach unten an kompatible Blöcke (Kabel, Maschinen) ab",
+    "createsolar.ponder.solar_panel.text_4": "Benachbarte Module teilen ihre Pufferenergie horizontal",
+    "createsolar.ponder.tag.solar.title": "Solarenergie",
+    "createsolar.ponder.tag.solar": "Solarenergie",
+    "createsolar.ponder.tag.solar.description": "Umwandlung von Sonnenlicht in Elektrizität"
+}

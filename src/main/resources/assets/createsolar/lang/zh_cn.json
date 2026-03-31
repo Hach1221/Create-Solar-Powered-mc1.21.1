@@ -1,0 +1,19 @@
+{
+    "block.createsolar.solar_panel": "太阳能板",
+    "tooltip.createsolar.solar_panel_info": "太阳能板信息：",
+    "tooltip.createsolar.solar_power_efficiency": "太阳能效率：",
+    "tooltip.createsolar.energy_generated": "产生能量：",
+    "tooltip.createsolar.at_current_sun_strength": " 在当前阳光强度下",
+    "tooltip.createsolar.fe_per_tick": "⚡/t",
+    "config.jade.plugin_createsolar.solar_panel": "太阳能板",
+    "createsolar.ponder.solar_panel.header": "太阳能板",
+    "createsolar.ponder.solar_panel.tag.solar": "太阳能板",
+    "createsolar.ponder.solar_panel.title": "太阳能板",
+    "createsolar.ponder.solar_panel.text_1": "太阳能板将阳光转化为电能",
+    "createsolar.ponder.solar_panel.text_2": "能量输出取决于一天中的时间和天气状况",
+    "createsolar.ponder.solar_panel.text_3": "它存储少量缓冲能量，并将能量向下传输到兼容的方块（如线缆或机器）",
+    "createsolar.ponder.solar_panel.text_4": "相邻的太阳能板水平共享缓冲能量",
+    "createsolar.ponder.tag.solar.title": "太阳能",
+    "createsolar.ponder.tag.solar": "太阳能",
+    "createsolar.ponder.tag.solar.description": "将阳光转化为电能"
+}

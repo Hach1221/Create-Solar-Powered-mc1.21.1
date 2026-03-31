@@ -1,0 +1,19 @@
+{
+    "block.createsolar.solar_panel": "Panel solar",
+    "tooltip.createsolar.solar_panel_info": "Información del panel solar:",
+    "tooltip.createsolar.solar_power_efficiency": "Eficiencia de energía solar:",
+    "tooltip.createsolar.energy_generated": "Energía generada:",
+    "tooltip.createsolar.at_current_sun_strength": " con la fuerza solar actual",
+    "tooltip.createsolar.fe_per_tick": "⚡/t",
+    "config.jade.plugin_createsolar.solar_panel": "Panel solar",
+    "createsolar.ponder.solar_panel.header": "Panel solar",
+    "createsolar.ponder.solar_panel.tag.solar": "Panel solar",
+    "createsolar.ponder.solar_panel.title": "Panel solar",
+    "createsolar.ponder.solar_panel.text_1": "El panel solar convierte la luz solar en energía eléctrica",
+    "createsolar.ponder.solar_panel.text_2": "La producción de energía depende de la hora del día y las condiciones climáticas",
+    "createsolar.ponder.solar_panel.text_3": "Almacena un pequeño búfer y envía energía hacia abajo a bloques compatibles como cables o máquinas",
+    "createsolar.ponder.solar_panel.text_4": "Los paneles adyacentes comparten su energía de búfer horizontalmente",
+    "createsolar.ponder.tag.solar.title": "Energía solar",
+    "createsolar.ponder.tag.solar": "Energía solar",
+    "createsolar.ponder.tag.solar.description": "Convertir la luz solar en electricidad"
+}

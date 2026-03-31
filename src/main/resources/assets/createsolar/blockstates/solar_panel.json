@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "createsolar:block/solar_panel"
+    }
+  }
+}

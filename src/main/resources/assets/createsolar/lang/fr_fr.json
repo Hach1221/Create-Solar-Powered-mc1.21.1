@@ -1,0 +1,19 @@
+{
+    "block.createsolar.solar_panel": "Panneau solaire",
+    "tooltip.createsolar.solar_panel_info": "Informations sur le panneau solaire :",
+    "tooltip.createsolar.solar_power_efficiency": "Efficacité de l'énergie solaire :",
+    "tooltip.createsolar.energy_generated": "Énergie générée :",
+    "tooltip.createsolar.at_current_sun_strength": " à l'intensité solaire actuelle",
+    "tooltip.createsolar.fe_per_tick": "⚡/t",
+    "config.jade.plugin_createsolar.solar_panel": "Panneau solaire",
+    "createsolar.ponder.solar_panel.header": "Panneau solaire",
+    "createsolar.ponder.solar_panel.tag.solar": "Panneau solaire",
+    "createsolar.ponder.solar_panel.title": "Panneau solaire",
+    "createsolar.ponder.solar_panel.text_1": "Le panneau solaire convertit la lumière du soleil en énergie électrique",
+    "createsolar.ponder.solar_panel.text_2": "La production d'énergie dépend de l'heure de la journée et des conditions météorologiques",
+    "createsolar.ponder.solar_panel.text_3": "Il stocke un petit tampon et transmet l'énergie vers le bas aux blocs compatibles (câbles, machines)",
+    "createsolar.ponder.solar_panel.text_4": "Les panneaux adjacents partagent leur énergie de tampon horizontalement",
+    "createsolar.ponder.tag.solar.title": "Énergie solaire",
+    "createsolar.ponder.tag.solar": "Énergie solaire",
+    "createsolar.ponder.tag.solar.description": "Convertir la lumière du soleil en électricité"
+}
